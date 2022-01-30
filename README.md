@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 I make video games for you!
 <!--
 **readyplaygames/readyplaygames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
