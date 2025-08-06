@@ -540,6 +540,9 @@ textarea {
   .bio {
     max-width: 75%;
   }
+  .bio img{
+	  max-width: 25%;
+  }
 
   
 
