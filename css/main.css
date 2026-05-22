@@ -147,13 +147,12 @@ textarea {
 
   .hero-area {
     /*background-color: #01baefff;*/
-    background: linear-gradient(360deg, hsla(217, 100%, 50%, 0.8) 0%, hsla(193, 99%, 47%, 1) 39%);
+    background: linear-gradient(360deg, hsla(126.2, 100%, 9.4%, 0.8) 0%, hsl(118, 100%, 17.5%) 39%);
 
     
   }
 
   .hero-title {
-    font-family: 'Oxanium', cursive;
     font-size: 4rem; /*64px*/
     text-align: center;
     color: #fbfbffff;
@@ -257,7 +256,10 @@ textarea {
   .skill-4 {
     background-color: #20bf55ff;
   }
-
+  
+  .skill-5 {
+    background-color: #d3bc20ff;
+  }
   /*About*/
 
   #about {
@@ -453,7 +455,7 @@ textarea {
   }
 
   .hero-area {
-    min-height: 500px;
+    min-height: 200px;
   }
 
   .portfolio-wrapper {
